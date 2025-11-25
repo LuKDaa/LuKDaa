@@ -11,7 +11,7 @@
 
 ### 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,powershell,bash,html,css,js,java,go,linux,windows,git,vscode&perline=6&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,powershell,bash,html,css,js,java,docker,linux,windows,git,vscode&perline=6&theme=dark)](https://skillicons.dev)
 
 * **Seguridad:** ZAProxy, Burp Suite, Monitoring Suites.
 * **Otros:** Metodologías de Pentesting y Hardening.
@@ -20,24 +20,24 @@
 
 ### 🚀 Proyecto Destacado
 
-#### 🐕‍🦺 [Cerbero-Scanner](https://github.com/LuKDaa/Cerbero-Scanner)
-*Escáner de vulnerabilidades y de puertos desarrollado 100% en Python.*
+#### 🐺 [Cerbero-Scanner](https://github.com/LuKDaa/Cerbero-Scanner)
+*Pipeline de DAST automatizado y orquestador de OWASP ZAP.*
 
-Este proyecto es un escáner de red multihilo (multithreaded) desarrollado desde cero, sin depender de herramientas externas como Nmap.
+Herramienta diseñada para integrarse en flujos de CI/CD que automatiza el ciclo de vida de una auditoría web: desde el despliegue de infraestructura efímera hasta el reporte forense.
 
 **⚙️ Arquitectura & Funcionalidades:**
-* **Motor de Escaneo Propio:** Implementación pura con `socket` para el análisis de puertos TCP/UDP (Connect & SYN Scan).
-* **Alta Concurrencia:** Uso de `threading` para optimizar la velocidad de escaneo sobre rangos de IP extensos.
-* **Enumeración de Servicios:** Banner grabbing manual para identificar versiones y servicios activos.
-* **Manejo de Errores:** Control de Timeouts y excepciones de conexión para garantizar estabilidad.
+* **Orquestación de Contenedores:** Despliegue automático de motores ZAP mediante `docker-py`, adaptándose a la red del host (Linux/Windows).
+* **Smart Auth Bypass:** Módulo personalizado con `BeautifulSoup` para evadir formularios de login y mantener sesiones activas durante el escaneo.
+* **Interacción vía API:** Control total del motor ZAP (Spider, Active Scan) mediante scripts de Python, eliminando la necesidad de GUI.
+* **Reportes Ejecutivos:** Generación automática de PDFs con hallazgos clasificados por riesgo.
 
 **🛠 Tech Stack:**
-`Python 3` `Socket Programming` `Multithreading` `TCP/IP Protocol`
+`Python 3` `Docker SDK` `OWASP ZAP API` `CI/CD Pipelines`
 
-> "Desarrollar mi propio motor de escaneo me permitió comprender a profundidad el protocolo TCP/IP y la lógica detrás del reconocimiento de red."
+> "Cerbero transforma la auditoría manual en un proceso continuo, permitiendo detectar vulnerabilidades críticas antes de llegar a producción."
 
 ---
 
 ### 📊 Estadísticas de GitHub
 
-![Estadisticas de Lucas](https://github-readme-stats.vercel.app/api?username=LuKDaa&show_icons=true&theme=dark&hide_border=true&count_private=true) ![Lenguajes mas usados](https://github-readme-stats.vercel.app/api/top-langs/?username=LuKDaa&layout=compact&theme=dark&hide_border=true)
+![Estadisticas de Lucas](https://github-readme-stats.vercel.app/api?username=LuKDaa&show_icons=true&theme=dark&hide_border=true) ![Lenguajes mas usados](https://github-readme-stats.vercel.app/api/top-langs/?username=LuKDaa&layout=compact&theme=dark&hide_border=true)
