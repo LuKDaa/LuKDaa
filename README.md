@@ -1,4 +1,4 @@
-### Hola, soy Lucas 👋
+### Hola, soy Lucas 👋 
 
 🌐 **SysSecAdmin & Pentester** enfocado en la seguridad ofensiva y defensiva.
 📝 Mi filosofía se basa en la **precisión técnica** y la **honestidad brutal** en cada reporte y auditoría.
@@ -43,23 +43,22 @@ Herramienta diseñada para integrarse en flujos de CI/CD que automatiza el ciclo
 <div align="center">
 
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuKDaa&theme=dark&hide_border=true" alt="Racha" height="170" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuKDaa&theme=dark&hide_border=true" alt="Racha" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuKDaa&layout=compact&theme=vue-dark&hide_border=true" alt="Lenguajes" height="170" />
 
-  <br/>
+  <br/><br/>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=LuKDaa&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="Trofeos" />
   </a>
 
-  <br/>
+  <br/><br/>
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuKDaa&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" alt="Actividad" />
   </a>
 
-  <br/>
+  <br/><br/>
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=LuKDaa.LuKDaa" alt="Visitas" />
 
