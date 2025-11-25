@@ -38,6 +38,29 @@ Herramienta diseñada para integrarse en flujos de CI/CD que automatiza el ciclo
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Dashboard de Métricas
 
-![Estadisticas de Lucas](https://github-readme-stats.vercel.app/api?username=LuKDaa&show_icons=true&theme=dark&hide_border=true) ![Lenguajes mas usados](https://github-readme-stats.vercel.app/api/top-langs/?username=LuKDaa&layout=compact&theme=dark&hide_border=true)
+<div align="center">
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuKDaa&theme=dark&hide_border=true" alt="Racha" height="170" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuKDaa&layout=compact&theme=vue-dark&hide_border=true" alt="Lenguajes" height="170" />
+
+  <br/>
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=LuKDaa&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="Trofeos" />
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuKDaa&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" alt="Actividad" />
+  </a>
+
+  <br/>
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LuKDaa.LuKDaa" alt="Visitas" />
+
+</div>
