@@ -3,7 +3,7 @@
 🌐 **CyberSecurity Analyst & AppSec Analyst** enfocado en la seguridad ofensiva y defensiva.
 📝 Mi filosofía se basa en la **precisión técnica** y la **honestidad brutal** en cada reporte y auditoría.
 
-- 🔭 **Rol actual:** Vulnerability Analyst | AppSec & DAST | SecOps.
+- 🔭 **Rol actual:** CyberSecurity Analyst | AppSec & DAST | SecOps.
 - 🌱 **Aprendiendo:** Transicionando hacia **DevSecOps** y profundizando en **Go**.
 - 💻 **Sistemas:** Windows (Server/Desktop) y Linux (Kali/Servers).
 
